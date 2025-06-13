@@ -1,0 +1,15 @@
+{
+  "cpu_threshold": 85,
+  "ram_threshold": 90,
+  "disk_threshold": 90,
+  "check_interval": 60,
+  "email": {
+    "sender": "your_email@example.com",
+    "recipient": "admin@example.com",
+    "smtp_server": "smtp.example.com",
+    "smtp_port": 587,
+    "username": "your_email@example.com",
+    "password": "your_email_password"
+  }
+}
+
